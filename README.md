@@ -45,7 +45,7 @@ The dashboard includes:
 You can view the dashboard in the attached PDF file.
 
 ## Dashboard Preview
-![Marketing Dashboard](dashboard.png)
+![Marketing Dashboard](Dashboard.PNG)
 
 ## Key Insights
 - Some campaigns generated significantly higher ROMI despite lower spend.
