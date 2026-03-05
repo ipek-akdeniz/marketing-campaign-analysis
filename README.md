@@ -52,3 +52,8 @@ You can view the dashboard in the attached PDF file.
 - Campaign CTR varies between 0% and 1.8%, indicating differences in ad engagement.
 - Marketing spend peaked in mid-2022 while ROMI fluctuated across months.
 - Certain campaigns achieved higher efficiency with lower CPC.
+  
+## Business Recommendations
+- Campaigns with high CTR but low conversion should be reviewed for landing page optimization.
+- Campaigns with strong ROMI could receive increased budget allocation.
+- Monitoring CPM trends over time can help control advertising costs.
