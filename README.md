@@ -30,3 +30,25 @@ Advertising data from Facebook Ads and Google Ads.
   = Spend / Impressions * 100
 - ROMI (Return on Marketing Investment)
   = (Revenue - Spend) / Spend
+  
+## Dashboard
+A marketing performance dashboard was created using Looker Studio 
+to visualize campaign performance and key marketing metrics.
+The dashboard includes:
+
+- Monthly Total Spend and ROMI trends
+- Number of active campaigns per month
+- CPM by campaign
+- CPC by campaign
+- CTR by campaign
+- ROMI by campaign
+You can view the dashboard in the attached PDF file.
+
+## Dashboard Preview
+![Marketing Dashboard](dashboard.png)
+
+## Key Insights
+- Some campaigns generated significantly higher ROMI despite lower spend.
+- Campaign CTR varies between 0% and 1.8%, indicating differences in ad engagement.
+- Marketing spend peaked in mid-2022 while ROMI fluctuated across months.
+- Certain campaigns achieved higher efficiency with lower CPC.
